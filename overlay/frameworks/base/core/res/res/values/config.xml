@@ -394,9 +394,12 @@
     <dimen name="status_bar_height_portrait">80px</dimen>
     <dimen name="status_bar_height_landscape">80px</dimen>
 
-
     <!-- Show a custom view for FOD -->
     <bool name="config_needCustomFODView">true</bool>
 
     <bool name="config_usesOnePlusFOD">true</bool>
+
+    <!-- Max visible notification icons -->
+    <integer name="config_maxVisibleNotificationIcons">5</integer>
+    <integer name="config_maxVisibleNotificationIconsWhenDark">6</integer>
 </resources>
