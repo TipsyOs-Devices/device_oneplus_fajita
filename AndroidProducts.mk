@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/carbon_fajita.mk
+    $(LOCAL_DIR)/tipsy_fajita.mk
 
 COMMON_LUNCH_CHOICES := \
-    carbon_fajita-user \
-    carbon_fajita-userdebug \
-    carbon_fajita-eng
+    tipsy_fajita-user \
+    tipsy_fajita-userdebug \
+    tipsy_fajita-eng
